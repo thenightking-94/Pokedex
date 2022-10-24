@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="stats"
+>
+  <div
+    className="title"
+  >
+    Stats
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 stats-grid css-mhc70k-MuiGrid-root"
+  />
+</div>
+`;

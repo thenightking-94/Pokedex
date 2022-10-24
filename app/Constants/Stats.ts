@@ -1,0 +1,1 @@
+export const stats = ['HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed']

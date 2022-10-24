@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+[
+  <div
+    className="MuiGrid-root MuiGrid-container specifics css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Height
+      </p>
+      <p
+        className="data"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Weight
+      </p>
+      <p
+        className="data"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Gender
+      </p>
+      <p
+        className="data"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Egg groups
+      </p>
+      <p
+        className="data"
+      >
+        undefined
+      </p>
+    </div>
+  </div>,
+  <div
+    className="MuiGrid-root MuiGrid-container specifics css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Abilities
+      </p>
+      <p
+        className="data"
+      >
+        undefined
+      </p>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Types
+      </p>
+      <div
+        className="colored-div"
+        dangerouslySetInnerHTML={
+          {
+            "__html": "",
+          }
+        }
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+    >
+      <p
+        className="label"
+      >
+        Weak against
+      </p>
+      <div
+        className="colored-div"
+        dangerouslySetInnerHTML={
+          {
+            "__html": "",
+          }
+        }
+      />
+    </div>
+  </div>,
+]
+`;

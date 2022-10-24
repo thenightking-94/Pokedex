@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container pagination css-go2vvz-MuiGrid-root"
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow css-i4bv87-MuiSvgIcon-root"
+    data-testid="ArrowBackIosNewIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M17.77 3.77 16 2 6 12l10 10 1.77-1.77L9.54 12z"
+    />
+  </svg>
+  <p
+    className="page-number"
+  />
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow css-i4bv87-MuiSvgIcon-root"
+    data-testid="ArrowForwardIosIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+    />
+  </svg>
+</div>
+`;

@@ -1,0 +1,5 @@
+export {default as Heading} from './Heading'
+export {default as SearchSection} from './SearchSection'
+export {default as FilterSectionDesktop} from './FilterSectionDesktop'
+export {default as PokemonCards} from './PokemonCards'
+export {default as FilterSectionMobile} from './FilterSectionMobile'

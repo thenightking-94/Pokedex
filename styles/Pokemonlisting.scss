@@ -1,0 +1,139 @@
+.container{
+    background-color: #DEEDED;
+    width: 100%;
+    min-height: 100vh;
+    padding: 48px 70px 20px 72px;
+
+    .heading{
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        .label{
+            padding-right: 33px;
+            font-family: 'Roboto-bold';
+            font-size: 30px;
+            letter-spacing: 0.06em;
+            color: #2E3156;
+            border-right: 1px solid #5D5F7E;;
+
+        }
+        .small-label{
+            padding-left: 30px;
+            font-family: 'Roboto-regular';
+            font-size: 20px;
+            color: #5D5F7E;
+        }
+    }
+
+    .pokemon-list{
+        width: 100%;
+        margin-top: 50px;
+        .no-results{
+            margin-top: 150px;
+            width: 100%;
+            color: #5D5F7E;
+            font-family: 'Roboto-bold';
+            font-style: normal;
+            font-weight: 700;
+        }
+    }
+}
+
+
+
+.container-mobile{
+    background-color: #DEEDED;
+    width: 100%;
+    min-height: 100vh;
+    padding: 63px 28px 20px 28px;
+    .heading-mobile{
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        .label{
+            padding-bottom: 12px;
+            font-family: 'Roboto-bold';
+            font-size: 30px;
+            line-height: 35px;
+            letter-spacing: 0.06em;
+            color: #2E3156;
+            border-bottom: 1px solid #5D5F7E;;
+        }
+        .small-label{
+            padding-top: 12px;
+            font-family: 'Roboto-regular';
+            font-size: 16px;
+            line-height: 19px;
+            color: #5D5F7E;
+        }
+    }
+
+    .pokemon-list{
+        width: 100%;
+        margin-top: 50px;
+        .no-results{
+            margin-top: 150px;
+            width: 100%;
+            color: #5D5F7E;
+            font-family: 'Roboto-bold';
+        }
+    }
+}
+
+.search-filter{
+    width: 100%;
+    .search-section{
+        width: 100%;
+        margin-top: 30px;
+        .label{
+            font-family: 'Roboto-regular';
+            font-size: 16px;
+            line-height: 19px;
+            color: #5D5F7E;
+        }
+        .search-box{
+            background: #C9DDE2;
+            margin-top: 10px;
+            border-radius: 8px;
+            height: 57px;
+            outline: none;
+            padding-left: 10px;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-right: 10px;
+            .search-box-input{
+                border: none;
+                width: 90%;
+                outline: none;
+                background: #C9DDE2;
+                padding-left: 10px;
+            }
+            .icon-search{
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+.pagination{
+    margin-top: 100px;
+    width: 100%;
+    .arrow{
+        cursor: pointer;
+    }
+    .page-number{
+        margin: 0px 10px 0px 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Roboto-bold';
+        height: 30px;
+        width: 30px;
+        font-size: 18px;
+        background-color: #2E3156;
+        color: white;
+        border-radius: 5px;
+    }
+}

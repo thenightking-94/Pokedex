@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="heading"
+  onClick={[Function]}
+>
+  <div
+    className="label"
+    title="Click here to go to homepage"
+  >
+    Pokédex
+  </div>
+  <div
+    className="small-label"
+  >
+    Search for any Pokémon that exists on the planet
+  </div>
+</div>
+`;

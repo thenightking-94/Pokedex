@@ -1,0 +1,395 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="heading"
+    onClick={[Function]}
+  >
+    <div
+      className="label"
+      title="Click here to go to homepage"
+    >
+      Pokédex
+    </div>
+    <div
+      className="small-label"
+    >
+      Search for any Pokémon that exists on the planet
+    </div>
+  </div>
+  <div
+    className="search-filter"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-sm-6 css-25gdp3-MuiGrid-root"
+      >
+        <div
+          className="search-section"
+        >
+          <div
+            className="label"
+          >
+            Search by
+          </div>
+          <div
+            className="search-box"
+          >
+            <input
+              className="search-box-input"
+              onChange={[Function]}
+              placeholder="Name or Number"
+            />
+            <div
+              className="icon-search"
+              onClick={[Function]}
+            >
+              <svg
+                fill="none"
+                height="22"
+                viewBox="0 0 25 22"
+                width="25"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M23.7619 21.3245L14.3842 13.4556M14.3842 13.4556C17.0585 10.2684 16.6428 5.51672 13.4556 2.84236C10.2685 0.167994 5.51673 0.583716 2.84237 3.7709C0.168002 6.95809 0.583724 11.7098 3.77091 14.3842C6.95809 17.0585 11.7098 16.6428 14.3842 13.4556Z"
+                  stroke="#5D5F7E"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-sm-6 css-14xrxsn-MuiGrid-root"
+      >
+        <div
+          className="filter-section"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 grid-offset css-6ejd34-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-4 css-kgs8gf-MuiGrid-root"
+            >
+              <div
+                className="type-section"
+              >
+                <p
+                  className="label"
+                >
+                  Type
+                </p>
+                <div
+                  className="MuiFormControl-root type-checkbox css-1nrlq1o-MuiFormControl-root"
+                >
+                  <label
+                    className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink={false}
+                    id="checkbox-label-type"
+                  >
+                    <span
+                      className="desc"
+                    >
+                      Normal
+                    </span>
+                    <span
+                      className="bold"
+                    >
+                       +5 More
+                    </span>
+                  </label>
+                  <div
+                    className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+                    onClick={[Function]}
+                  >
+                    <div
+                      aria-expanded="false"
+                      aria-haspopup="listbox"
+                      aria-labelledby="checkbox-label-type multiple-checkbox-type"
+                      className="MuiSelect-select MuiSelect-outlined MuiSelect-multiple MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                      id="multiple-checkbox-type"
+                      onBlur={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onMouseDown={[Function]}
+                      role="button"
+                      tabIndex={0}
+                    >
+                      <span
+                        className="notranslate"
+                      >
+                        ​
+                      </span>
+                    </div>
+                    <input
+                      aria-hidden={true}
+                      className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                      disabled={false}
+                      onAnimationStart={[Function]}
+                      onChange={[Function]}
+                      required={false}
+                      tabIndex={-1}
+                      value=""
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                      data-testid="ArrowDropDownIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </svg>
+                    <fieldset
+                      aria-hidden={true}
+                      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        className="css-yjsfm1"
+                      >
+                        <span>
+                          Types
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-4 css-kgs8gf-MuiGrid-root"
+            >
+              <div
+                className="gender-section"
+              >
+                <p
+                  className="label"
+                >
+                  Gender
+                </p>
+                <div
+                  className="MuiFormControl-root gender-checkbox css-1nrlq1o-MuiFormControl-root"
+                >
+                  <label
+                    className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink={false}
+                    id="checkbox-label-gender"
+                  >
+                    <span
+                      className="desc"
+                    >
+                      Male
+                    </span>
+                    <span
+                      className="bold"
+                    >
+                       +2 More
+                    </span>
+                  </label>
+                  <div
+                    className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+                    onClick={[Function]}
+                  >
+                    <div
+                      aria-expanded="false"
+                      aria-haspopup="listbox"
+                      aria-labelledby="checkbox-label-gender multiple-checkbox-gender"
+                      className="MuiSelect-select MuiSelect-outlined MuiSelect-multiple MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                      id="multiple-checkbox-gender"
+                      onBlur={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onMouseDown={[Function]}
+                      role="button"
+                      tabIndex={0}
+                    >
+                      <span
+                        className="notranslate"
+                      >
+                        ​
+                      </span>
+                    </div>
+                    <input
+                      aria-hidden={true}
+                      className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                      disabled={false}
+                      onAnimationStart={[Function]}
+                      onChange={[Function]}
+                      required={false}
+                      tabIndex={-1}
+                      value=""
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                      data-testid="ArrowDropDownIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </svg>
+                    <fieldset
+                      aria-hidden={true}
+                      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        className="css-yjsfm1"
+                      >
+                        <span>
+                          Gender
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-4 css-kgs8gf-MuiGrid-root"
+            >
+              <div
+                className="stats-section"
+              >
+                <p
+                  className="label"
+                >
+                  Stats
+                </p>
+                <div
+                  className="MuiFormControl-root stats-box css-1nrlq1o-MuiFormControl-root"
+                >
+                  <label
+                    className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink={false}
+                    id="checkbox-label"
+                  >
+                    <span
+                      className="desc"
+                    >
+                      HP
+                    </span>
+                    <span
+                      className="bold"
+                    >
+                       +5 More
+                    </span>
+                  </label>
+                  <div
+                    className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+                    onClick={[Function]}
+                  >
+                    <div
+                      aria-expanded="false"
+                      aria-haspopup="listbox"
+                      aria-labelledby="checkbox-label multiple-checkbox"
+                      className="MuiSelect-select MuiSelect-outlined MuiSelect-multiple MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                      id="multiple-checkbox"
+                      onBlur={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onMouseDown={[Function]}
+                      role="button"
+                      tabIndex={0}
+                    >
+                      <span
+                        className="notranslate"
+                      >
+                        ​
+                      </span>
+                    </div>
+                    <input
+                      aria-hidden={true}
+                      className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                      disabled={false}
+                      onAnimationStart={[Function]}
+                      onChange={[Function]}
+                      required={false}
+                      tabIndex={-1}
+                    />
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                      data-testid="ArrowDropDownIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M7 10l5 5 5-5z"
+                      />
+                    </svg>
+                    <fieldset
+                      aria-hidden={true}
+                      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        className="css-yjsfm1"
+                      >
+                        <span>
+                          Stats
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="pokemon-list"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-container no-results css-go2vvz-MuiGrid-root"
+    >
+      Sorry! No results on this Page
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container pagination css-go2vvz-MuiGrid-root"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow css-i4bv87-MuiSvgIcon-root"
+      data-testid="ArrowBackIosNewIcon"
+      focusable="false"
+      onClick={[Function]}
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M17.77 3.77 16 2 6 12l10 10 1.77-1.77L9.54 12z"
+      />
+    </svg>
+    <p
+      className="page-number"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow css-i4bv87-MuiSvgIcon-root"
+      data-testid="ArrowForwardIosIcon"
+      focusable="false"
+      onClick={[Function]}
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+      />
+    </svg>
+  </div>
+</div>
+`;

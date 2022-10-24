@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="filter-section"
+>
+  <div
+    className="filterIcon"
+    onClick={[Function]}
+  >
+    <svg
+      fill="none"
+      height="58"
+      viewBox="0 0 77 58"
+      width="77"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect
+        fill="#2E3156"
+        height="57.5"
+        rx="8"
+        width="76.6667"
+      />
+      <line
+        stroke="white"
+        x1="31.7415"
+        x2="49.9955"
+        y1="18.616"
+        y2="18.616"
+      />
+      <circle
+        cx="28.1922"
+        cy="18.6089"
+        r="3.04938"
+        stroke="white"
+      />
+      <line
+        stroke="white"
+        x1="26.6709"
+        x2="44.9249"
+        y1="28.757"
+        y2="28.757"
+      />
+      <circle
+        cx="48.4746"
+        cy="28.75"
+        r="3.04938"
+        stroke="white"
+      />
+      <line
+        stroke="white"
+        x1="31.7415"
+        x2="49.9955"
+        y1="38.8981"
+        y2="38.8981"
+      />
+      <circle
+        cx="28.1922"
+        cy="38.8911"
+        r="3.04938"
+        stroke="white"
+      />
+    </svg>
+  </div>
+</div>
+`;

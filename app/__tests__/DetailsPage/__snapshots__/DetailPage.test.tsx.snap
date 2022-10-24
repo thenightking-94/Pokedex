@@ -1,0 +1,325 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div
+  className="desc-screen"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container detail-modal-grid css-1oukqxz-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-3 side-bars css-auylq4-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+    >
+      <div
+        className="data-section"
+        style={
+          {
+            "padding": "40px",
+          }
+        }
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 css-1xd74lj-MuiGrid-root"
+          >
+            <div
+              className="image-card"
+              style={
+                {
+                  "backgroundImage": "linear-gradient(to bottom, #dcdcdc, #FCC1B0)",
+                }
+              }
+            >
+              <img
+                alt="Charizard"
+                aria-labelledby="Charizard"
+                className="det-img"
+              />
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-8 css-112spkq-MuiGrid-root"
+          >
+            <div
+              className="heading-nav"
+            >
+              <div
+                className="pokemon-name"
+              >
+                CHARIZARD
+              </div>
+              <div
+                className="pokemon-id"
+              >
+                006
+              </div>
+              <div
+                className="nav"
+              >
+                <div
+                  className="back-icon"
+                  onClick={[Function]}
+                >
+                  <svg
+                    fill="none"
+                    height="24"
+                    viewBox="0 0 22 22"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M9.92498 8.49641L10.2785 8.14286L9.57143 7.43575L9.21787 7.7893L9.92498 8.49641ZM6.71428 11L6.36073 10.6464L6.00718 11L6.36073 11.3536L6.71428 11ZM9.21787 14.2107L9.57143 14.5642L10.2785 13.8571L9.92498 13.5036L9.21787 14.2107ZM9.21787 7.7893L6.36073 10.6464L7.06784 11.3536L9.92498 8.49641L9.21787 7.7893ZM6.36073 11.3536L9.21787 14.2107L9.92498 13.5036L7.06784 10.6464L6.36073 11.3536ZM6.71428 11.5L16 11.5V10.5L6.71428 10.5V11.5ZM11 1.5C16.2467 1.5 20.5 5.75329 20.5 11H21.5C21.5 5.20101 16.799 0.5 11 0.5V1.5ZM1.5 11C1.5 5.75329 5.75329 1.5 11 1.5V0.5C5.20101 0.5 0.5 5.20101 0.5 11H1.5ZM11 20.5C5.75329 20.5 1.5 16.2467 1.5 11H0.5C0.5 16.799 5.20101 21.5 11 21.5V20.5ZM11 21.5C16.799 21.5 21.5 16.799 21.5 11H20.5C20.5 16.2467 16.2467 20.5 11 20.5V21.5Z"
+                      fill="#2E3156"
+                    />
+                  </svg>
+                </div>
+                <div
+                  className="close-icon"
+                  onClick={[Function]}
+                >
+                  <svg
+                    fill="none"
+                    height="26"
+                    viewBox="0 0 26 26"
+                    width="26"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M7.85714 7.85714L18.1429 18.1429M7.85714 18.1429L18.1429 7.85714M13 25C6.37258 25 1 19.6274 1 13C1 6.37258 6.37258 1 13 1C19.6274 1 25 6.37258 25 13C25 19.6274 19.6274 25 13 25Z"
+                      stroke="#2E3156"
+                    />
+                  </svg>
+                </div>
+                <div
+                  className="forward-icon"
+                  onClick={[Function]}
+                >
+                  <svg
+                    fill="none"
+                    height="24"
+                    viewBox="0 0 22 22"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M12.0748 13.5036L11.7212 13.8571L12.4283 14.5642L12.7819 14.2107L12.0748 13.5036ZM15.2855 11L15.639 11.3536L15.9926 11L15.639 10.6464L15.2855 11ZM12.7819 7.7893L12.4283 7.43575L11.7212 8.14286L12.0748 8.49641L12.7819 7.7893ZM12.7819 14.2107L15.639 11.3536L14.9319 10.6464L12.0748 13.5036L12.7819 14.2107ZM15.639 10.6464L12.7819 7.7893L12.0748 8.49641L14.9319 11.3536L15.639 10.6464ZM15.2855 10.5H5.99976V11.5H15.2855V10.5ZM10.9998 20.5C5.75305 20.5 1.49976 16.2467 1.49976 11H0.499756C0.499756 16.799 5.20077 21.5 10.9998 21.5V20.5ZM20.4998 11C20.4998 16.2467 16.2465 20.5 10.9998 20.5V21.5C16.7987 21.5 21.4998 16.799 21.4998 11H20.4998ZM10.9998 1.5C16.2465 1.5 20.4998 5.7533 20.4998 11H21.4998C21.4998 5.20101 16.7987 0.5 10.9998 0.5V1.5ZM10.9998 0.5C5.20077 0.5 0.499756 5.20101 0.499756 11H1.49976C1.49976 5.7533 5.75305 1.5 10.9998 1.5V0.5Z"
+                      fill="#2E3156"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              className="loader"
+            >
+              <div
+                aria-busy={true}
+                aria-label="three-circles-rotating"
+                className=""
+                data-testid="three-circles-wrapper"
+                role="status"
+                style={
+                  {
+                    "display": "flex",
+                  }
+                }
+              >
+                <svg
+                  data-testid="three-circles-svg"
+                  enableBackground="new 0 0 100 100"
+                  height="70"
+                  version="1.1"
+                  viewBox="0 0 100 100"
+                  width="70"
+                  xmlSpace="preserve"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M31.6,3.5C5.9,13.6-6.6,42.7,3.5,68.4c10.1,25.7,39.2,38.3,64.9,28.1l-3.1-7.9c-21.3,8.4-45.4-2-53.8-23.3
+  c-8.4-21.3,2-45.4,23.3-53.8L31.6,3.5z"
+                    fill="#2E3156"
+                  >
+                    <animateTransform
+                      attributeName="transform"
+                      attributeType="XML"
+                      dur="2s"
+                      from="0 50 50"
+                      repeatCount="indefinite"
+                      to="360 50 50"
+                      type="rotate"
+                    />
+                  </path>
+                  <path
+                    d="M42.3,39.6c5.7-4.3,13.9-3.1,18.1,2.7c4.3,5.7,3.1,13.9-2.7,18.1l4.1,5.5c8.8-6.5,10.6-19,4.1-27.7
+  c-6.5-8.8-19-10.6-27.7-4.1L42.3,39.6z"
+                    fill="#F4D1A6"
+                  >
+                    <animateTransform
+                      attributeName="transform"
+                      attributeType="XML"
+                      dur="1s"
+                      from="0 50 50"
+                      repeatCount="indefinite"
+                      to="-360 50 50"
+                      type="rotate"
+                    />
+                  </path>
+                  <path
+                    d="M82,35.7C74.1,18,53.4,10.1,35.7,18S10.1,46.6,18,64.3l7.6-3.4c-6-13.5,0-29.3,13.5-35.3s29.3,0,35.3,13.5
+  L82,35.7z"
+                    fill="#CFB7ED"
+                  >
+                    <animateTransform
+                      attributeName="transform"
+                      attributeType="XML"
+                      dur="2s"
+                      from="0 50 50"
+                      repeatCount="indefinite"
+                      to="360 50 50"
+                      type="rotate"
+                    />
+                  </path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container specifics css-11lq3yg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Height
+            </p>
+            <p
+              className="data"
+            />
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Weight
+            </p>
+            <p
+              className="data"
+            />
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Gender
+            </p>
+            <p
+              className="data"
+            />
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Egg groups
+            </p>
+            <p
+              className="data"
+            >
+              undefined
+            </p>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container specifics css-11lq3yg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Abilities
+            </p>
+            <p
+              className="data"
+            >
+              undefined
+            </p>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-3 css-1blu1sr-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Types
+            </p>
+            <div
+              className="colored-div"
+              dangerouslySetInnerHTML={
+                {
+                  "__html": "",
+                }
+              }
+            />
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+          >
+            <p
+              className="label"
+            >
+              Weak against
+            </p>
+            <div
+              className="colored-div"
+              dangerouslySetInnerHTML={
+                {
+                  "__html": "",
+                }
+              }
+            />
+          </div>
+        </div>
+        <div
+          className="stats"
+        >
+          <div
+            className="title"
+          >
+            Stats
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 stats-grid css-mhc70k-MuiGrid-root"
+          />
+        </div>
+        <div
+          className="title"
+        >
+          Evolution chain
+        </div>
+        <div
+          className="pokemon-cards-detail"
+        />
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-3 side-bars css-auylq4-MuiGrid-root"
+    />
+  </div>
+</div>
+`;

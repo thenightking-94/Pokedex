@@ -1,0 +1,22 @@
+export const ColorCodes = [
+    { type: 'normal', color : '#DDCBD0'},
+    { type: 'fighting', color : '#FCC1B0'},
+    { type: 'flying', color : '#B2D2E8'},
+    { type: 'poison', color : '#CFB7ED'},
+    { type: 'ground', color : '#F4D1A6'},
+    { type: 'rock', color : '#C5AEA8'},
+    { type: 'bug', color : '#C1E0C8'},
+    { type: 'ghost', color : '#D7C2D7'},
+    { type: 'steel', color : '#C2D4CE'},
+    { type: 'fire', color : '#EDC2C4'},
+    { type: 'water', color : '#CBD5ED'},
+    { type: 'grass', color : '#C0D4C8'},
+    { type: 'electric', color : '#E2E2A0'},
+    { type: 'psychic', color : '#DDC0CF'},
+    { type: 'ice', color : '#C7D7DF'},
+    { type: 'dragon', color : '#CADCDF'},
+    { type: 'dark', color : '#C6C5E3'},
+    { type: 'fairy', color : '#E4C0CF'},
+    { type: 'unknown', color : '#C0DFDD'},
+    { type: 'shadow', color : '#CACACA'}
+]
